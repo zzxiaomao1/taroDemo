@@ -8,13 +8,12 @@ export default function Index () {
   })
 
   let a='第一个变量'
-  const arr = ['abc','cba','cba']
+  const arr = ['abc13215','cba','cba']
 
   const obj = {
     name:"张三",
     age:18
   }
-
   let isTure=true;
   let isUndefined = undefined;
   let isNull = null;
